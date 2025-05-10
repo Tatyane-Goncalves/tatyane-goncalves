@@ -20,7 +20,7 @@
 
 - 💻 HTML, CSS, JavaScript
 - ⚛️ React (aprendendo na raça!)
-- 🐍 Python (meu xodózinho)
+- 🐍 Python 
 - 🗃️ Banco de dados com MySQL e MongoDB
 - 🌐 Git e GitHub na veia
 
