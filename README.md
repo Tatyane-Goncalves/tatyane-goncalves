@@ -1,10 +1,10 @@
 # 👋 Oiê! Eu sou a Taty!
 
-🎓 Estudante de Sistemas de Informação  
-💻 Apaixonada por resolver pepinos com código  
-🚀 Explorando o universo do desenvolvimento full stack
-🌱 Atualmente focada em aprender mais sobre JavaScript e Python 
-🛠️ Sempre fuçando projetos e tecnologias pra sair do "Hello, World!" e ir pro "Deploy em produção"  
+🎓 Estudante de Sistemas de Informação  <br>
+💻 Apaixonada por resolver pepinos com código  <br>
+🚀 Explorando o universo do desenvolvimento full stack <br>
+🌱 Atualmente focada em aprender mais sobre JavaScript e Python <br>
+🛠️ Sempre fuçando projetos e tecnologias pra sair do "Hello, World!" e ir pro "Deploy em produção" <br>
 🤓 Viciada em café, playlists lo-fi e debugar até resolver (ou desistir e pedir ajuda)
 
 ---
