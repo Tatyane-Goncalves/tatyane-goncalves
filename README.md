@@ -11,17 +11,17 @@
 
 ## 📊 Meus Stats no GitHub
 
-![Tatyane's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatyane-goncalves&theme=midnight-purple&show_icons=true)
-![Tatyane's GitHub stats top langs](https://github-readme-stats.vercel.app/api/top-langs?username=tatyane-goncalves&theme=midnight-purple&show_icons=true&layout=compact)
+![Tatyane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tatyane-goncalves&theme=midnight-purple&show_icons=true)
+![Tatyane's GitHub stats top langs](https://github-readme-stats.vercel.app/api/top-langs?username=Tatyane-goncalves&theme=midnight-purple&show_icons=true&layout=compact)
 
 ---
 
 ## 🧰 Tecnologias que tô mexendo ou querendo domar
 
 - 💻 HTML, CSS, JavaScript
-- ⚛️ React (aprendendo na raça!)
+- ⚛️ React 
 - 🐍 Python 
-- 🗃️ Banco de dados com MySQL e MongoDB
+- 🗃️ Banco de dados com Postgress, MySQL e MongoDB
 - 🌐 Git e GitHub na veia
 
 ---
